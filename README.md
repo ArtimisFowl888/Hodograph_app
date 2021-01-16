@@ -7,10 +7,12 @@ This app is being developed by Zach Yap and Kately Powell. Based on Code origina
 ## Set up
 **Make sure to add *acf, arrow, auxiliary, dnsfns,* and *functions* to your Matlab path.**
 
-Hodograph_app.mlapp is the source code for the app.[^1]
+Hodograph_app.mlapp is the source code for the app.<sup>1</sup>
 
-[^1]:Note for some features it is faster to complile a new installer and test than it is to run the app in the MatLab IDE environmnet.
+Hodograph_app directory has the pulished standalone windows installer versions.<sup>2</sup>
 
-Hodograph_app directory has the pulished standalone windows installer versions.[^2]
 
-[^2]:To build a new installed you will need the MatLab Compiler installed.
+
+<sup>1</sup>:Note for some features it is faster to complile a new installer and test than it is to run the app in the MatLab IDE environmnet.
+
+<sup>2</sup>To build a new installed you will need the MatLab Compiler installed.
